@@ -9,3 +9,9 @@
 ### 数据集
 
 Consumer & Visitor Insights For Neighborhoods
+
+### 作业文件
+
+上交文件：Association rules mining.ipynb
+
+库文件：fp_growth_py3.py
